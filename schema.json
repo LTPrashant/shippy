@@ -1,3 +1,7 @@
 {
- "name": "string" 
+ "type": "array",
+ "items": {
+   "name": "string"
+
+ }
 }
