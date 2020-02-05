@@ -7,9 +7,6 @@
     "name": {
       "type": "string"
     },
-    "address": {
-      "$ref": "#/definitions/Address"
-    },
     "age": {
       "type": "integer",
       "format": "int32",
